@@ -1,1 +1,1 @@
-# FitToScrape
+The server was built fit to scrape
